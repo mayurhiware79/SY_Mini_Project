@@ -47,6 +47,4 @@ The Indian Constitution, a complex legal document, often remains inaccessible to
 
 We invite you to contribute to this project by providing feedback, suggesting improvements, or even contributing code. Let's work together to make the Indian Constitution more accessible and understandable for everyone.
 
-**[GitHub Repository Link]**
-
-**[Contact Information]**
+**https://github.com/mayurhiware79/SY_Mini_Project**
